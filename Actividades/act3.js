@@ -1,0 +1,6 @@
+var v1 = prompt("Dame el valor 1")
+console.log(v1)
+var v2 = prompt("Dame el valor 2")
+console.log(v2)
+var v3 = prompt("Dame el valor 3")
+console.log(v3)
