@@ -3,7 +3,7 @@ console.log(tarea);
 
 if (tarea === "si")
 {
-    alert("¡Bien Hecho!, sigue esforzandote")
+    alert("¡Bien Hecho!, sigue esforzandotegit")
 }
 else if (tarea === "no")
 {
